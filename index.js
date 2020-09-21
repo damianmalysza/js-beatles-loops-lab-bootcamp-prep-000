@@ -13,5 +13,5 @@ function johnLennonFacts(facts){
   while(i<facts.length){
     facts[i]=facts[i]+"!!!"
   }
-  retun facts
+  return facts
 }
